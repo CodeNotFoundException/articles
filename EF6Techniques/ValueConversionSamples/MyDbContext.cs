@@ -1,5 +1,6 @@
 ﻿using ValueConversionSamples.Models;
 using System.Data.Entity;
+using ValueConversionSamples.Configurations;
 
 namespace ValueConversionSamples
 {

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ValueConversionSamples
+namespace ValueConversionSamples.Configurations
 {
     internal class PersonConfiguration : EntityTypeConfiguration<Person>
     {
