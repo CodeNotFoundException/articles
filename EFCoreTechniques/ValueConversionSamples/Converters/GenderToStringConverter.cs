@@ -1,9 +1,9 @@
-﻿using EFCoreSamples.Models;
+﻿using ValueConversionSamples.Models;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using System;
 using System.Linq.Expressions;
 
-namespace EFCoreSamples.Converters
+namespace ValueConversionSamples.Converters
 {
     public class GenderToStringConverter : ValueConverter<Gender?, string>
     {

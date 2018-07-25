@@ -1,18 +1,18 @@
-namespace EF6Samples.Migrations
+namespace ValueConversionSamples.Migrations
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<EF6Samples.MyDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<ValueConversionSamples.MyDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(EF6Samples.MyDbContext context)
+        protected override void Seed(ValueConversionSamples.MyDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

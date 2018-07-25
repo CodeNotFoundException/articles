@@ -1,4 +1,4 @@
-namespace EF6Samples.Migrations
+namespace ValueConversionSamples.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

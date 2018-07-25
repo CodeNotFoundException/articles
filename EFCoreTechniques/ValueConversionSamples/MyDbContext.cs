@@ -1,12 +1,12 @@
-﻿using EFCoreSamples.Configurations;
-using EFCoreSamples.Converters;
-using EFCoreSamples.Models;
+﻿using ValueConversionSamples.Configurations;
+using ValueConversionSamples.Converters;
+using ValueConversionSamples.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Console;
 using System.Linq;
 
-namespace EFCoreSamples
+namespace ValueConversionSamples
 {
     public class MyDbContext : DbContext
     {

@@ -1,9 +1,9 @@
-﻿using EFCoreSamples.Models;
+﻿using ValueConversionSamples.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace EFCoreSamples
+namespace ValueConversionSamples
 {
     class Program
     {

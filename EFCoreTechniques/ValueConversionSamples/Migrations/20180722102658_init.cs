@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace EFCoreSamples.Migrations
+namespace ValueConversionSamples.Migrations
 {
     public partial class init : Migration
     {

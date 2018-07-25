@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EF6Samples.Models
+namespace ValueConversionSamples.Models
 {
     public class Person
     {

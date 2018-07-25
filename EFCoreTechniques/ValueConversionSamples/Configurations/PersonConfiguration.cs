@@ -1,8 +1,8 @@
-﻿using EFCoreSamples.Models;
+﻿using ValueConversionSamples.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace EFCoreSamples.Configurations
+namespace ValueConversionSamples.Configurations
 {
     internal class PersonConfiguration : IEntityTypeConfiguration<Person>
     {

@@ -1,11 +1,8 @@
-﻿using EF6Samples.Models;
+﻿using ValueConversionSamples.Models;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace EF6Samples
+namespace ValueConversionSamples
 {
     class Program
     {

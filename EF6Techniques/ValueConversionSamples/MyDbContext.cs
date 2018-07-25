@@ -1,7 +1,7 @@
-﻿using EF6Samples.Models;
+﻿using ValueConversionSamples.Models;
 using System.Data.Entity;
 
-namespace EF6Samples
+namespace ValueConversionSamples
 {
     public class MyDbContext : DbContext
     {

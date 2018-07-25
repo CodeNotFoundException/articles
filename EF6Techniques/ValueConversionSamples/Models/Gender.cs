@@ -1,4 +1,4 @@
-﻿namespace EF6Samples.Models
+﻿namespace ValueConversionSamples.Models
 {
     public enum Gender
     {

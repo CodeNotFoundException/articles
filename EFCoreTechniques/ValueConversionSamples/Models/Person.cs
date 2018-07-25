@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EFCoreSamples.Models
+namespace ValueConversionSamples.Models
 {
     public class Person
     {
