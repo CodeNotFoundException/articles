@@ -14,7 +14,7 @@ namespace CustomConstructorSamples.Models
 
         public Tweet(int userId, string content)
         {
-            if (userId < 0) throw new ArgumentException("User Id must be greater than 0", nameof(userId));
+            if (userId <= 0) throw new ArgumentException("User Id must be greater than 0", nameof(userId));
             if (string.IsNullOrWhiteSpace(content)) throw new ArgumentNullException(nameof(content));
 
             this.UserId = userId;
